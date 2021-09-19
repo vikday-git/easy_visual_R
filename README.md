@@ -4,7 +4,7 @@
 
 Get data --> prepare data in csv format --> plot using the esquisse package gui or with ggplot code directly
 
-Video clips are numbered from 1 to 5 and can be downloaded and viewed. 
+Video clips are numbered from 1 to 5 and can be downloaded and viewed (click on the file name and then download from the webpage that opens). 
 
 Word file provides links referred to and an outline.
 
