@@ -6,7 +6,9 @@ If you want to make simple graphs of data easily with R, with minimal code.
 
 ### Files
 
-- Video clips are numbered from 1 to 5 and can be downloaded and viewed (click on the file name and then download from the webpage that opens). 
+- Video clips (mp4, easy_data ... ) are numbered from 1 to 5 and can be downloaded and viewed (click on the file name and then download from the webpage that opens). 
+
+- csv files that are ready to be used in R. 
 
 - Word file provides links referred to and an outline.
 
